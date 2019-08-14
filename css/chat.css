@@ -9,6 +9,34 @@
     0 -12px 36px -8px rgba(0, 0, 0, 0.025);
 }
 
+.chats__chat {
+  margin-bottom: 15px;
+}
+
+.chats__chat .t-avatar {
+  width : 45%;
+  border-radius: 38%;
+  margin : 1px;
+  box-sizing: border-box;
+}
+
+.chats__chat .friend__many {
+  display : flex;
+  flex-wrap: wrap;
+  width : 50px;
+}
+
+
+.chats__chat .friend__title {
+  display: flex;
+}
+
+.friend__cnt, .friend__icon {
+  margin-left: 10px;
+  color: gray;
+
+}
+
 .chats-body {
   padding: 10px 0px;
   padding-top: 100px;
@@ -162,7 +190,6 @@
   box-shadow: rgba(0, 0, 0, 0.3) 0px 8px 16px -8px,
     rgba(0, 0, 0, 0.024) 0px -6px 16px -6px;
   animation: spin 1s linear infinite;
-
 }
 
 .message .message__bubble {

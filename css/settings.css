@@ -15,8 +15,16 @@
 
 .settings .settings__setting {
   margin-bottom: 30px;
+  position: relative;
 }
 
 .settings .settings__setting:last-child {
   margin-bottom: 0;
+}
+
+.settings .version {
+  position: absolute;
+  right: 0px;
+  font-size: 18px;
+  color: rgba(121, 119, 119, 0.849);
 }
