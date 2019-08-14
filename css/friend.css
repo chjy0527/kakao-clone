@@ -20,6 +20,7 @@
 .friend .friend__column {
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 .friend .friend__avatar {
@@ -71,3 +72,8 @@
   background-color: #f5f5f5;
   border-radius: 5px;
 }
+
+/* .friends__list {
+  height: 60vh;
+  overflow: scroll;
+} */
