@@ -2,6 +2,10 @@
 
 ## 구현 화면
 
+##### 자세한 부분은 페이지 참조
+
+[Kakao-clone 페이지](https://chjy0527.github.io/kakao-clone/)
+
 ### **index.html**
 
 <img src="./images/index.jpg" width="300" height="400">
@@ -28,10 +32,6 @@
 
 ### **Mobile**
 
-<img src="./images/midea.jpg" width="300" height="400">
-
 ##### 지정해둔 최소 사이즈 보다 화면이 커지면 보이게 되는 화면
 
-[Kakao-clone 페이지](https://chjy0527.github.io/kakao-clone/)
-
-##### 자세한 부분은 페이지 참조
+<img src="./images/midea.jpg" width="300" height="400">
